@@ -1,0 +1,15 @@
+D:\S6\sttLab11\dotnet-console-games\Projects\Flappy Bird\bin\Debug\Flappy Bird.exe
+D:\S6\sttLab11\dotnet-console-games\Projects\Flappy Bird\bin\Debug\Flappy Bird.deps.json
+D:\S6\sttLab11\dotnet-console-games\Projects\Flappy Bird\bin\Debug\Flappy Bird.runtimeconfig.json
+D:\S6\sttLab11\dotnet-console-games\Projects\Flappy Bird\bin\Debug\Flappy Bird.dll
+D:\S6\sttLab11\dotnet-console-games\Projects\Flappy Bird\bin\Debug\Flappy Bird.pdb
+D:\S6\sttLab11\dotnet-console-games\Projects\Flappy Bird\obj\Debug\Flappy Bird.GeneratedMSBuildEditorConfig.editorconfig
+D:\S6\sttLab11\dotnet-console-games\Projects\Flappy Bird\obj\Debug\Flappy Bird.AssemblyInfoInputs.cache
+D:\S6\sttLab11\dotnet-console-games\Projects\Flappy Bird\obj\Debug\Flappy Bird.AssemblyInfo.cs
+D:\S6\sttLab11\dotnet-console-games\Projects\Flappy Bird\obj\Debug\Flappy Bird.csproj.CoreCompileInputs.cache
+D:\S6\sttLab11\dotnet-console-games\Projects\Flappy Bird\obj\Debug\Flappy Bird.sourcelink.json
+D:\S6\sttLab11\dotnet-console-games\Projects\Flappy Bird\obj\Debug\Flappy Bird.dll
+D:\S6\sttLab11\dotnet-console-games\Projects\Flappy Bird\obj\Debug\refint\Flappy Bird.dll
+D:\S6\sttLab11\dotnet-console-games\Projects\Flappy Bird\obj\Debug\Flappy Bird.pdb
+D:\S6\sttLab11\dotnet-console-games\Projects\Flappy Bird\obj\Debug\Flappy Bird.genruntimeconfig.cache
+D:\S6\sttLab11\dotnet-console-games\Projects\Flappy Bird\obj\Debug\ref\Flappy Bird.dll

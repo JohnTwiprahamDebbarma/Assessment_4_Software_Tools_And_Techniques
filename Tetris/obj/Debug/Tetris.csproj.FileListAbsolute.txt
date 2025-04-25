@@ -1,0 +1,15 @@
+D:\S6\sttLab11\dotnet-console-games\Projects\Tetris\bin\Debug\Tetris.exe
+D:\S6\sttLab11\dotnet-console-games\Projects\Tetris\bin\Debug\Tetris.deps.json
+D:\S6\sttLab11\dotnet-console-games\Projects\Tetris\bin\Debug\Tetris.runtimeconfig.json
+D:\S6\sttLab11\dotnet-console-games\Projects\Tetris\bin\Debug\Tetris.dll
+D:\S6\sttLab11\dotnet-console-games\Projects\Tetris\bin\Debug\Tetris.pdb
+D:\S6\sttLab11\dotnet-console-games\Projects\Tetris\obj\Debug\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+D:\S6\sttLab11\dotnet-console-games\Projects\Tetris\obj\Debug\Tetris.AssemblyInfoInputs.cache
+D:\S6\sttLab11\dotnet-console-games\Projects\Tetris\obj\Debug\Tetris.AssemblyInfo.cs
+D:\S6\sttLab11\dotnet-console-games\Projects\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\S6\sttLab11\dotnet-console-games\Projects\Tetris\obj\Debug\Tetris.sourcelink.json
+D:\S6\sttLab11\dotnet-console-games\Projects\Tetris\obj\Debug\Tetris.dll
+D:\S6\sttLab11\dotnet-console-games\Projects\Tetris\obj\Debug\refint\Tetris.dll
+D:\S6\sttLab11\dotnet-console-games\Projects\Tetris\obj\Debug\Tetris.pdb
+D:\S6\sttLab11\dotnet-console-games\Projects\Tetris\obj\Debug\Tetris.genruntimeconfig.cache
+D:\S6\sttLab11\dotnet-console-games\Projects\Tetris\obj\Debug\ref\Tetris.dll

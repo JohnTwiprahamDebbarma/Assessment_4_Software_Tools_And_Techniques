@@ -1,0 +1,15 @@
+D:\S6\sttLab11\dotnet-console-games\Projects\Snake\bin\Debug\Snake.exe
+D:\S6\sttLab11\dotnet-console-games\Projects\Snake\bin\Debug\Snake.deps.json
+D:\S6\sttLab11\dotnet-console-games\Projects\Snake\bin\Debug\Snake.runtimeconfig.json
+D:\S6\sttLab11\dotnet-console-games\Projects\Snake\bin\Debug\Snake.dll
+D:\S6\sttLab11\dotnet-console-games\Projects\Snake\bin\Debug\Snake.pdb
+D:\S6\sttLab11\dotnet-console-games\Projects\Snake\obj\Debug\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\S6\sttLab11\dotnet-console-games\Projects\Snake\obj\Debug\Snake.AssemblyInfoInputs.cache
+D:\S6\sttLab11\dotnet-console-games\Projects\Snake\obj\Debug\Snake.AssemblyInfo.cs
+D:\S6\sttLab11\dotnet-console-games\Projects\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\S6\sttLab11\dotnet-console-games\Projects\Snake\obj\Debug\Snake.sourcelink.json
+D:\S6\sttLab11\dotnet-console-games\Projects\Snake\obj\Debug\Snake.dll
+D:\S6\sttLab11\dotnet-console-games\Projects\Snake\obj\Debug\refint\Snake.dll
+D:\S6\sttLab11\dotnet-console-games\Projects\Snake\obj\Debug\Snake.pdb
+D:\S6\sttLab11\dotnet-console-games\Projects\Snake\obj\Debug\Snake.genruntimeconfig.cache
+D:\S6\sttLab11\dotnet-console-games\Projects\Snake\obj\Debug\ref\Snake.dll
